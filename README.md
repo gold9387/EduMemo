@@ -1,3 +1,4 @@
+[![Build and Deploy Spring Boot to AWS EC2](https://github.com/gold9387/EduMemo/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/gold9387/EduMemo/actions/workflows/deploy.yml)
 # EduMemo
 
 Contact
