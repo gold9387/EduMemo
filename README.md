@@ -27,7 +27,7 @@ Contact
     | DB | MySQL | 주 데이터베이스 |
     |  | H2 | 개발 및 테스트용 인메모리 데이터베이스 |
     | DevOps | Docker | 컨테이너화 도구 |
-    |  | Jenkins | 지속적 통합(CI) 및 지속적 배포(CD) |
+    |  | GitHub Action | 지속적 통합(CI) 및 지속적 배포(CD) |
     | Etc | Git/GitHub | 코드 버전 관리 |
     |  | Notion | 프로젝트 관리 도구 |
 - **주요 기능:**
