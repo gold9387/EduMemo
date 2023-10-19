@@ -1,23 +1,13 @@
 package com.edu.memo.controller;
 
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
 
-@RestController
+@Controller
 public class HomeController {
-    
-    @GetMapping("/test1")
+
+    @GetMapping("/")
     public String home() {
-        return "Home Page";
-    }
-
-    @GetMapping("/test2")
-    public String home2() {
-        return "Home Page2";
-    }
-
-    @GetMapping("/test3")
-    public String home3() {
-        return "Home Page3";
+        return "home";
     }
 }
