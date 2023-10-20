@@ -1,17 +1,19 @@
 [![Build and Deploy Spring Boot to AWS EC2](https://github.com/gold9387/EduMemo/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/gold9387/EduMemo/actions/workflows/deploy.yml)
+
 # EduMemo
 
-Contact
-
-- Phone: 010-4502-8133
-- Email: gold9387@gmail.com
+- **Contact**
+    - Phone: 010-4502-8133
+    - Email: gold9387@gmail.com
 
 ## 프로젝트 소개
 
 - **프로젝트 목적:**
     - 본 프로젝트의 목적은 학점은행제를 이용하는 학생이 통합된 웹 애플리케이션을 통해 학적 정보를 효율적으로 관리하고 조회할 수 있도록 하는 것입니다.
+
 - **개발 기간:**
     - 2023.10.18 ~ 2023.11.18
+
 - **기술과 도구:**
     | 분류 | 기술 스택 | 설명 |
     | --- | --- | --- |
@@ -33,6 +35,7 @@ Contact
     |  | CodeDeploy | 자동화된 소프트웨어 배포 서비스 |   
     | Etc | Git/GitHub | 코드 버전 관리 |
     |  | Notion | 프로젝트 관리 도구 |
+  
 - **주요 기능:**
     - 회원가입
         - 일반 사용자 회원가입
@@ -56,3 +59,6 @@ Contact
         - 메모된 내용 중 원하는 정보를 쉽게 찾을 수 있도록 검색과 필터 기능을 제공합니다.
     - 내보내기/불러오기
         - 메모한 내용을 텍스트 파일이나 스프레드시트 형태로 내보내거나 불러올 수 있습니다.
+     
+- **구현한 인프라 구조**
+<img width="1035" alt="스크린샷 2023-10-20 오후 10 33 16" src="https://github.com/gold9387/EduMemo/assets/119953993/65aed4c3-7ca5-4f9c-9f8f-8b5d3ea0b94e">
